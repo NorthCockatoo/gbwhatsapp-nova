@@ -25,4 +25,4 @@ Details & docs: https://gbwhatsapp-nova.softonx.xyz
 ## Getting Started
 1. Grab the latest build from the releases section above.
 2. Decompress the package to your chosen location on disk.
-3. Start the application and configure your initial preferences. 
+3. Start the application and configure your initial preferences.  
